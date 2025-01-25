@@ -1,6 +1,3 @@
-Certainly! Here's an example of a README file for your project. You can customize it further based on your specific needs and features.
-
----
 
 # File Explorer
 
